@@ -1,8 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
-
 ## Creating a special "matrix" object 
 ## that can cache its inverse can be done by:
 ## First setting the input x as a matrix
